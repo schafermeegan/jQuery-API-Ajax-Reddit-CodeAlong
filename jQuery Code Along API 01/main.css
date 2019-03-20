@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    background-color: purple;
+    flex-wrap: wrap;
+}
+
+div {
+    display: flex;
+    width: 150px;
+    height: 200px;
+    flex-wrap: wrap;
+    background-color: white;
+    margin: 100px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+
+
